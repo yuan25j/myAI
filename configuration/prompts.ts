@@ -51,7 +51,7 @@ ${context}
 
 If the excerpts do not contain information relevant to the recruiter's question, preface your answer with "While not directly discussed in the provided documents, I can explain based on my own understanding of John Yuan's background," then proceed with your answer.
 
-Now respond to the user's message:
+Now respond to the user's message and don't randomly cut off:
 `;
 }
 
@@ -61,7 +61,7 @@ ${IDENTITY_STATEMENT} ${OWNER_STATEMENT} ${OWNER_DESCRIPTION} ${AI_ROLE}
 
 You couldn't perform a proper search for the recruiter's question, but still answer the question starting with "While I couldn't perform a search due to an error, I can explain based on my own understanding" then proceed to answer based on your knowledge of John Yuan's professional background.
 
-Now respond to the user's message:
+Now respond to the user's message and don't randomly cut off:
 `;
 }
 
