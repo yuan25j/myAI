@@ -1,7 +1,5 @@
 # Read Me
 Create your own AI Assistant, powered by ringel.AI
 
-This repo makes it easy to configure and deploy your own AI Assistant using Vercel and Pinecone. 
-
-For documentation, contact Daniel Ringel and visit www.ringel.AI 
+Customized to be Rameses, a virtual assistant that helps inform recruiters learn more about John Yuan
 
