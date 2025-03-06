@@ -7,4 +7,4 @@ export const CLEAR_BUTTON_TEXT: string = `Reset Chat`;
 export const PAGE_TITLE: string = `Chat with Rameses`;
 export const PAGE_DESCRIPTION: string = `Chat with ${AI_NAME}, ${OWNER_NAME}'s AI assistant.`;
 
-export const EMPTY_CITATION_MESSAGE: string = "Unspecified source";
+export const EMPTY_CITATION_MESSAGE: string = "John's Resume and Work History";
